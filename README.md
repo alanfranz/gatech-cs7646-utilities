@@ -9,6 +9,8 @@ results on the reference machines (buffet) in an automated way; just use a virtu
 the provided requirements.txt on your workstation, then use this Makefile to verify the results
 on buffet.
 
+You can read my 2c for ML4T [here](https://www.reddit.com/r/OMSCS/comments/biqvgr/succeeding_in_cs7646_ml4t_my_2c/)
+
 ## How to use this?
 
 First, create an entry in your ```.ssh/config``` and add a ```buffet``` entry for automatic access
